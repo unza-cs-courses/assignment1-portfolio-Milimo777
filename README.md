@@ -127,23 +127,26 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** [MILIMO CHIPANDE]
+**Student ID:** [2021459152]
+**Design Theme:** [My portfolio website uses a clean and modern professional design. The layout focuses on simplicity, readability, and responsiveness so it works well on mobile, tablet, and desktop devices. I used a light background with navy blue accents to create a professional appearance suitable for a technology portfolio. The sections are clearly organized into Hero, About, Projects, and Contact, making the website easy to navigate.]
 
 ### CSS Techniques Used
-- [ ] CSS Custom Properties
-- [ ] Flexbox
-- [ ] CSS Grid
-- [ ] Media Queries
-- [ ] Other: _______________
+- [ YES] CSS Custom Properties
+- [ YES] Flexbox
+- [ YES] CSS Grid
+- [ YES] Media Queries
+- [ ] Other: ___Responsive Design, CSS Transitions, Hover Effects____________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+[One challenge I faced was making the layout responsive across different screen sizes. Initially, some sections such as the project cards did not align properly on larger screens. I solved this problem by using CSS Grid with media queries to adjust the number of columns depending on the screen width.
+
+Another challenge was styling the navigation menu for mobile devices. I implemented a hamburger menu using CSS and a checkbox toggle so that the navigation links are hidden on small screens and displayed when the menu icon is clicked.
+
+I also had to ensure that images scaled correctly across devices, which I solved by using responsive image styling (max-width: 100%) and flexible containers.]
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
-
+[Icons and layout inspiration from modern portfolio design examples found online.]
 ---
 
 ## Academic Integrity
